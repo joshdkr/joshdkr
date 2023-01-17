@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @joshdkr
-- 👀 I’m interested in showcasing my skills for employers.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-joshdkr/joshdkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Joshua Krempasky.  I am a senior Information Systems major at The University of Cincinnati.  I am currently looking for a post-graduation job coding with Java, or in a data analyst role utilizing Python, R, and more.  In this repository you will find some of the example programs I have created in the last year.  If you have any additional questions, feel freee to contact me at joshkrempasky@gmail.com.
